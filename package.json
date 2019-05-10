@@ -1,8 +1,5 @@
 {
   "name": "live",
-  "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "Bo Andersen <ba0708@icloud.com>",
   "private": true,
   "scripts": {
     "dev": "concurrently --kill-others \"npm run dev-server\" \"npm run backend-server\"",
